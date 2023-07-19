@@ -96,7 +96,7 @@ Here is the [Front-End](https://github.com/Lucash2022/hello-react-front-end) of 
 - Start the server
 
 ```sh
- ./bin/dev
+ rails server
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
